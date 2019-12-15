@@ -1,6 +1,7 @@
 
 # chrome正则匹配插件
 
+Based on [XPath Helper](https://chrome.google.com/webstore/detail/xpath-helper/hgimnogjllphhhkhlmebbmlgjoejdpjl?hl=zh-CN).
 ## 导入
 ![](pic.png)
 
